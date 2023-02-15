@@ -1,5 +1,3 @@
-# Projeto-Dad-Jokes
-
 <h1 align="center">Projeto: Dad Jokes</h1>
 <p>Status do projeto: Concluído ✅ </p>
 <hr>
