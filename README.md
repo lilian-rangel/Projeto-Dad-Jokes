@@ -28,7 +28,7 @@
 <br>
 <img width="100%" align="center" src="assets/img/scuba-divers.jpg">
 <h3 align="center">Mobile</h3>
-<img width="100%" align="center" src="assets/img/mobile.jpg">
+<img width="50%" src="assets/img/mobile.jpg">
 
 
 <hr>
